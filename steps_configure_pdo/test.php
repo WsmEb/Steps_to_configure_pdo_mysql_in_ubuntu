@@ -2,10 +2,10 @@
 
 <?php
 // Database credentials
-$host = 'localhost'; // Change this to your database host if needed
-$dbname = 'Test'; // Replace with your database name
-$username = 'root'; // Replace with your database username
-$password = '123456'; // Replace with your database password
+$host = 'host'; // Change this to your database host if needed
+$dbname = 'dbname'; // Replace with your database name
+$username = 'uname'; // Replace with your database username
+$password = 'upassword'; // Replace with your database password
 
 try {
     // Create a new PDO instance
