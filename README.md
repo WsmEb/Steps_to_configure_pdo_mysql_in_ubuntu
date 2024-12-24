@@ -1,2 +1,1 @@
-// First Check your php version :
-// php -v
+Check php Version : php -v
